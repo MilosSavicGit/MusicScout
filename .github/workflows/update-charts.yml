@@ -1,0 +1,50 @@
+name: Update MusicScout charts and publish
+
+on:
+  schedule:
+    - cron: '17 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: musicscout-chart-publish
+  cancel-in-progress: false
+
+jobs:
+  update-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out MusicScout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Refresh source-verified chart positions
+        run: python3 MusicScout-auto.py --refresh-only
+
+      - name: Commit chart updates, if changed
+        run: |
+          if git diff --quiet -- MusicScout-chart-data.json; then
+            echo 'No chart positions changed.'
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add MusicScout-chart-data.json
+            git commit -m 'Update MusicScout chart snapshots'
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload MusicScout site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '.'
+
+      - name: Publish updated MusicScout
+        uses: actions/deploy-pages@v4
