@@ -1,0 +1,631 @@
+{
+  "countries": [
+    "Russia",
+    "Poland",
+    "Romania",
+    "Czechia",
+    "Hungary",
+    "Serbia",
+    "Ukraine",
+    "Greece",
+    "United Kingdom",
+    "Ireland",
+    "France",
+    "Germany",
+    "Spain",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Sweden",
+    "Portugal",
+    "Japan",
+    "South Korea",
+    "China",
+    "India",
+    "Vietnam",
+    "Indonesia",
+    "Nigeria",
+    "Ghana",
+    "Senegal",
+    "Egypt",
+    "Mozambique",
+    "South Africa",
+    "United States",
+    "Canada",
+    "Mexico",
+    "Argentina",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Australia",
+    "New Zealand"
+  ],
+  "national": {
+    "United Kingdom": {
+      "name": "Official Singles Chart Top 100",
+      "source": "Official Charts Company",
+      "date": "18 September 2026 – 24 September 2026",
+      "url": "https://www.officialcharts.com/charts/singles-chart/",
+      "tracks": [
+        [
+          "GREAT EXPECTATION",
+          "SIENNA SPIRO"
+        ],
+        [
+          "CHOOSIN' TEXAS",
+          "ELLA LANGLEY"
+        ],
+        [
+          "MOVIN' TO THE SUN",
+          "HUGEL/IMAEL ANGEL/ULTRA NATE"
+        ],
+        [
+          "BOSTON",
+          "STELLA LEFTY"
+        ]
+      ]
+    },
+    "Australia": {
+      "name": "ARIA Top 50 Singles",
+      "source": "ARIA",
+      "date": "Week of 21 September 2026",
+      "url": "https://www.aria.com.au/charts/singles-chart/2026-09-21",
+      "tracks": [
+        [
+          "Choosin’ Texas",
+          "Ella Langley"
+        ],
+        [
+          "Rein Me In",
+          "Sam Fender & Olivia Dean"
+        ],
+        [
+          "Man I Need",
+          "Olivia Dean"
+        ],
+        [
+          "Ordinary",
+          "Alex Warren"
+        ]
+      ]
+    },
+    "Germany": {
+      "name": "Top 100 Single-Charts",
+      "source": "Offizielle Deutsche Charts / GfK",
+      "date": "18–24 September 2026",
+      "url": "https://www.offiziellecharts.de/charts/single",
+      "tracks": [
+        [
+          "Dai Dai",
+          "Shakira x Burna Boy"
+        ],
+        [
+          "Mo’ Money Mo’ Haters",
+          "Summer Cem & Shirin David"
+        ],
+        [
+          "Von hier an blind",
+          "Wir sind Helden"
+        ],
+        [
+          "Movin’ To The Sun",
+          "Hugel, Imael Angel & Ultra Naté"
+        ]
+      ]
+    },
+    "United States": {
+      "name": "Billboard Hot 100",
+      "source": "Billboard via Official Charts",
+      "date": "16–22 September 2026",
+      "url": "https://www.officialcharts.com/charts/billboard-hot-100-chart/",
+      "tracks": [
+        [
+          "Choosin’ Texas",
+          "Ella Langley"
+        ],
+        [
+          "Boston",
+          "Stella Lefty"
+        ],
+        [
+          "I Knew It, I Knew You",
+          "Taylor Swift"
+        ],
+        [
+          "Been By Now",
+          "Morgan Wallen"
+        ]
+      ]
+    },
+    "Spain": {
+      "name": "Top 100 Canciones",
+      "source": "PROMUSICAE / El Portal de Música",
+      "date": "Week 38, 2026",
+      "url": "https://www.elportaldemusica.es/lists/top-100-canciones/2026/38",
+      "tracks": [
+        [
+          "BBY WOW",
+          "Karol G, Judeline & rusowsky"
+        ],
+        [
+          "LA GRACIOSA",
+          "Quevedo & Elvis Crespo"
+        ],
+        [
+          "AL GOLPITO",
+          "Quevedo & Nueva Línea"
+        ],
+        [
+          "pa ti toa <3",
+          "Ana Mena & Lola Indigo"
+        ]
+      ]
+    },
+    "Greece": {
+      "name": "Digital Singles Chart (Local)",
+      "source": "IFPI Greece",
+      "date": "Week 36, 2026",
+      "url": "https://www.ifpi.gr/digital_el.html",
+      "tracks": [
+        [
+          "Ώρες",
+          "Saske"
+        ],
+        [
+          "Ώρες Μικρές",
+          "Γιώργος Μαζωνάκης"
+        ],
+        [
+          "Aproveitar",
+          "SNIK, MC Menor JP, VISIONARE & Finesse"
+        ],
+        [
+          "Baila",
+          "Light & Arab"
+        ]
+      ],
+      "note": "Local releases only; IFPI also publishes a separate international digital singles chart."
+    },
+    "Portugal": {
+      "name": "Top 200 Singles",
+      "source": "AFP / Audiogest",
+      "date": "Week 37, 4–10 September 2026",
+      "url": "https://www.audiogest.pt/uploads/files/file_2026-09-16-10-35-23.pdf",
+      "tracks": [
+        [
+          "Pega ou Larga",
+          "Chico da Tina"
+        ],
+        [
+          "Dai Dai",
+          "Shakira & Burna Boy"
+        ],
+        [
+          "Vícios",
+          "Chico da Tina"
+        ],
+        [
+          "25 de abril",
+          "Lon3r Johny feat. Plutónio"
+        ]
+      ],
+      "note": "Latest publicly listed weekly report checked on 22 September 2026; the PDF also contains separate streams and album tables."
+    },
+    "Italy": {
+      "name": "Top Singoli",
+      "source": "FIMI Top of the Music",
+      "date": "Week 38, 11–17 September 2026",
+      "url": "https://www.fimi.it/top-of-the-music/classifiche/#tabs-2",
+      "tracks": [
+        [
+          "Per noi",
+          "Geolier feat. Achille Lauro"
+        ],
+        [
+          "Sottogonna",
+          "Blanco"
+        ],
+        [
+          "Canzone d’amore",
+          "Geolier"
+        ],
+        [
+          "La testa gira",
+          "Fred De Palma, Anitta & Emis Killa"
+        ]
+      ],
+      "note": "Choose the Singoli tab on the FIMI page to see this chart."
+    },
+    "New Zealand": {
+      "name": "Official Top 40 Singles",
+      "source": "Recorded Music NZ / Aotearoa Music Charts",
+      "date": "18–24 September 2026",
+      "url": "https://aotearoamusiccharts.co.nz/charts/singles",
+      "tracks": [
+        [
+          "Choosin’ Texas",
+          "Ella Langley"
+        ],
+        [
+          "Rein Me In",
+          "Sam Fender feat. Olivia Dean"
+        ],
+        [
+          "Man I Need",
+          "Olivia Dean"
+        ],
+        [
+          "So Easy (To Fall In Love)",
+          "Olivia Dean"
+        ]
+      ]
+    },
+    "France": {
+      "name": "French Singles Chart",
+      "source": "Official Charts Company for SNEP / SCPP",
+      "date": "15 September 2026 – 21 September 2026",
+      "url": "https://www.officialcharts.com/charts/french-singles-chart/",
+      "tracks": [
+        [
+          "MALADIE",
+          "MAUVAIS DJO"
+        ],
+        [
+          "SEXY NANA",
+          "AYA NAKAMURA & LA RVFLEUZE"
+        ],
+        [
+          "DAI DAI",
+          "SHAKIRA"
+        ],
+        [
+          "PILÉ",
+          "MAUVAIS DJO"
+        ]
+      ],
+      "note": "The linked chart is published by its compiler."
+    },
+    "Norway": {
+      "name": "Singel topp 100",
+      "source": "Topplista / IFPI Norway",
+      "date": "Week 38, 2026",
+      "url": "https://topplista.no/charts/singles/",
+      "tracks": [
+        [
+          "I takt med deg (feat. Bjørn Eidsvåg)",
+          "Zimmermann & Bjørn Eidsvåg"
+        ],
+        [
+          "Great Expectation",
+          "Sienna Spiro"
+        ],
+        [
+          "Halvt Forhold",
+          "Tobias Sten"
+        ],
+        [
+          "Flexnes",
+          "Arif Murakami"
+        ]
+      ]
+    },
+    "Sweden": {
+      "name": "Veckolista Singlar",
+      "source": "Sverigetopplistan / IFPI Sweden",
+      "date": "Week 38, 2026",
+      "url": "https://sverigetopplistan.se/chart/41/?dspp=38&dspy=2026",
+      "tracks": [
+        [
+          "Om du frågar Nooshi",
+          "Fröken Snusk / Rasmus Gozzi / Louise Andersson Bodin"
+        ],
+        [
+          "Djurens vaggvisa",
+          "Humlan Djojj & Josefine Götestam"
+        ],
+        [
+          "Azalea",
+          "Victor Leksell"
+        ],
+        [
+          "Dai Dai",
+          "Shakira & Burna Boy"
+        ]
+      ]
+    },
+    "Ireland": {
+      "name": "Official Irish Singles Chart",
+      "source": "Official Charts Company / IRMA",
+      "date": "18 September 2026 – 24 September 2026",
+      "url": "https://www.officialcharts.com/charts/irish-singles-chart/",
+      "tracks": [
+        [
+          "THE SWELL",
+          "AMBLE"
+        ],
+        [
+          "GREAT EXPECTATION",
+          "SIENNA SPIRO"
+        ],
+        [
+          "STOP THE WEDDING",
+          "ASHE"
+        ],
+        [
+          "STUPID SONG",
+          "OLIVIA RODRIGO"
+        ]
+      ]
+    }
+  },
+  "genres": {
+    "United Kingdom": {
+      "dance": {
+        "name": "Official Dance Singles Chart",
+        "source": "Official Charts Company",
+        "date": "18–24 September 2026",
+        "url": "https://www.officialcharts.com/charts/dance-singles-chart/",
+        "tracks": [
+          [
+            "Movin’ to the Sun",
+            "HUGEL, Imael Angel & Ultra Naté"
+          ],
+          [
+            "Free Your Mind",
+            "Prospa & Cloonee"
+          ],
+          [
+            "On 2Nite",
+            "Silva Bumpa"
+          ],
+          [
+            "Talk to You",
+            "ANOTR & 54 Ultra"
+          ]
+        ]
+      },
+      "hiphop": {
+        "name": "Official Hip Hop and R&B Singles Chart",
+        "source": "Official Charts Company",
+        "date": "18–24 September 2026",
+        "url": "https://www.officialcharts.com/charts/official-hip-hop-and-r-and-b-singles-chart/",
+        "tracks": [
+          [
+            "Material Lover",
+            "Sienna Spiro"
+          ],
+          [
+            "Raindance",
+            "Dave & Tems"
+          ],
+          [
+            "No Scrubs",
+            "TLC"
+          ],
+          [
+            "Sure Thing",
+            "Miguel"
+          ]
+        ]
+      },
+      "rock": {
+        "name": "Official Rock & Metal Singles Chart",
+        "source": "Official Charts Company",
+        "date": "18–24 September 2026",
+        "url": "https://www.officialcharts.com/charts/rock-and-metal-singles-chart/",
+        "tracks": [
+          [
+            "Iris",
+            "Goo Goo Dolls"
+          ],
+          [
+            "Bring Me to Life",
+            "Evanescence"
+          ]
+        ]
+      },
+      "jazz": {
+        "name": "Official Jazz & Blues Albums Chart",
+        "source": "Official Charts Company",
+        "date": "18–24 September 2026",
+        "url": "https://www.officialcharts.com/charts/jazz-and-blues-albums-chart/20260918/18/",
+        "kind": "albums",
+        "tracks": [
+          [
+            "Here Because of Hope",
+            "Ezra Collective"
+          ],
+          [
+            "The Best Of",
+            "Sade"
+          ],
+          [
+            "Eternal Spring",
+            "Jack Wyllie"
+          ],
+          [
+            "Kind of Blue",
+            "Miles Davis"
+          ]
+        ]
+      },
+      "classical": {
+        "name": "Official Classical Chart",
+        "source": "Official Charts Company",
+        "date": "18–24 September 2026",
+        "url": "https://www.officialcharts.com/charts/classical-chart/",
+        "kind": "albums",
+        "tracks": [
+          [
+            "Solo Piano",
+            "Ludovico Einaudi"
+          ],
+          [
+            "The Summer Portraits – Live",
+            "Ludovico Einaudi"
+          ],
+          [
+            "Novanta",
+            "Luciano Pavarotti"
+          ],
+          [
+            "Verdi",
+            "Lise Davidsen / London Philharmonic Orchestra / Edward Gardner"
+          ]
+        ]
+      },
+      "folk": {
+        "name": "Official Folk Albums Chart",
+        "source": "Official Charts Company / English Folk Expo",
+        "date": "8 September – 12 October 2026",
+        "url": "https://www.officialcharts.com/charts/folk-albums-chart/",
+        "kind": "albums",
+        "tracks": [
+          [
+            "Prizefighter",
+            "Mumford & Sons"
+          ],
+          [
+            "Angels’ Share",
+            "Nathan Evans / Saint PHNX Band"
+          ],
+          [
+            "Blizzard",
+            "Dove Ellis"
+          ],
+          [
+            "Old Crow Folk Club Pts the Songs of Rev",
+            "Various Artists"
+          ]
+        ]
+      }
+    },
+    "Australia": {
+      "dance": {
+        "name": "ARIA Top 20 Dance Singles",
+        "source": "ARIA",
+        "date": "Week of 21 September 2026",
+        "url": "https://www.aria.com.au/charts/dance-singles-chart/2026-09-21",
+        "tracks": [
+          [
+            "No Broke Boys",
+            "Disco Lines & Tinashe"
+          ],
+          [
+            "Movin’ to the Sun",
+            "HUGEL, Imael Angel & Ultra Naté"
+          ],
+          [
+            "Victory Lap",
+            "Fred again.., Skepta & PlaqueBoyMax"
+          ],
+          [
+            "Free Your Mind",
+            "Cloonee & Prospa"
+          ]
+        ]
+      },
+      "hiphop": {
+        "name": "ARIA Top 40 Hip Hop/R&B Singles",
+        "source": "ARIA",
+        "date": "Week of 21 September 2026",
+        "url": "https://www.aria.com.au/charts/hip-hop-r-and-b-singles-chart/2026-09-21",
+        "tracks": [
+          [
+            "Earrings",
+            "Malcolm Todd"
+          ],
+          [
+            "Love Me Not",
+            "Ravyn Lenae"
+          ],
+          [
+            "Where Is My Husband!",
+            "Raye"
+          ],
+          [
+            "Raindance",
+            "Dave & Tems"
+          ]
+        ]
+      }
+    },
+    "Sweden": {
+      "rock": {
+        "name": "Veckolista Hårdrock",
+        "source": "Sverigetopplistan / IFPI Sweden",
+        "date": "Week 38, 2026",
+        "url": "https://sverigetopplistan.se/chart/93/?dspp=38&dspy=2026",
+        "kind": "albums",
+        "tracks": [
+          [
+            "Meteora",
+            "Linkin Park"
+          ],
+          [
+            "Metallica",
+            "Metallica"
+          ],
+          [
+            "Hybrid Theory",
+            "Linkin Park"
+          ],
+          [
+            "Back in Black",
+            "AC/DC"
+          ]
+        ]
+      },
+      "jazz": {
+        "name": "Veckolista Jazz",
+        "source": "Sverigetopplistan / IFPI Sweden",
+        "date": "Week 38, 2026",
+        "url": "https://sverigetopplistan.se/chart/97/?dspp=38&dspy=2026",
+        "kind": "albums",
+        "tracks": [
+          [
+            "Come Away with Me (20th Anniversary Edition)",
+            "Norah Jones"
+          ],
+          [
+            "Bewitched: The Goddess Edition",
+            "Laufey"
+          ],
+          [
+            "Jazz på svenska – Svenska folklåtar",
+            "Jan Johansson"
+          ],
+          [
+            "Feels Like Home",
+            "Norah Jones"
+          ]
+        ]
+      },
+      "classical": {
+        "name": "Veckolista Album Klassiskt",
+        "source": "Sverigetopplistan / IFPI Sweden",
+        "date": "Week 38, 2026",
+        "url": "https://sverigetopplistan.se/chart/56/?dspp=38&dspy=2026",
+        "kind": "albums",
+        "tracks": [
+          [
+            "Piano",
+            "Benny Andersson"
+          ],
+          [
+            "On the Carpet of Leaves Illuminated by the Moon",
+            "Peter Söderberg & Erik Peters"
+          ],
+          [
+            "Mina första klassiska skivor",
+            "Blandade kompositörer"
+          ],
+          [
+            "Una Mattina",
+            "Ludovico Einaudi"
+          ]
+        ]
+      }
+    }
+  }
+}
