@@ -44,24 +44,24 @@
     "United Kingdom": {
       "name": "Official Singles Chart Top 100",
       "source": "Official Charts Company",
-      "date": "18 September 2026 – 24 September 2026",
+      "date": "18–24 September 2026",
       "url": "https://www.officialcharts.com/charts/singles-chart/",
       "tracks": [
         [
-          "GREAT EXPECTATION",
-          "SIENNA SPIRO"
+          "Great Expectation",
+          "Sienna Spiro"
         ],
         [
-          "CHOOSIN' TEXAS",
-          "ELLA LANGLEY"
+          "Choosin’ Texas",
+          "Ella Langley"
         ],
         [
-          "MOVIN' TO THE SUN",
-          "HUGEL/IMAEL ANGEL/ULTRA NATE"
+          "Movin’ to the Sun",
+          "HUGEL, Imael Angel & Ultra Naté"
         ],
         [
-          "BOSTON",
-          "STELLA LEFTY"
+          "Boston",
+          "Stella Lefty"
         ]
       ]
     },
@@ -263,24 +263,24 @@
     "France": {
       "name": "French Singles Chart",
       "source": "Official Charts Company for SNEP / SCPP",
-      "date": "15 September 2026 – 21 September 2026",
+      "date": "15–21 September 2026",
       "url": "https://www.officialcharts.com/charts/french-singles-chart/",
       "tracks": [
         [
-          "MALADIE",
-          "MAUVAIS DJO"
+          "Maladie",
+          "Mauvais Djo"
         ],
         [
-          "SEXY NANA",
-          "AYA NAKAMURA & LA RVFLEUZE"
+          "Sexy Nana",
+          "Aya Nakamura & La Rvfleuze"
         ],
         [
-          "DAI DAI",
-          "SHAKIRA"
+          "Dai Dai",
+          "Shakira"
         ],
         [
-          "PILÉ",
-          "MAUVAIS DJO"
+          "Pilé",
+          "Mauvais Djo"
         ]
       ],
       "note": "The linked chart is published by its compiler."
@@ -336,26 +336,202 @@
     "Ireland": {
       "name": "Official Irish Singles Chart",
       "source": "Official Charts Company / IRMA",
-      "date": "18 September 2026 – 24 September 2026",
-      "url": "https://www.officialcharts.com/charts/irish-singles-chart/",
+      "date": "18–24 September 2026",
+      "url": "https://www.officialcharts.com/charts/irish-singles-chart/20260918/ie7501/",
       "tracks": [
         [
-          "THE SWELL",
-          "AMBLE"
+          "The Swell",
+          "Amble"
         ],
         [
-          "GREAT EXPECTATION",
-          "SIENNA SPIRO"
+          "Great Expectation",
+          "Sienna Spiro"
         ],
         [
-          "STOP THE WEDDING",
-          "ASHE"
+          "Stop the Wedding",
+          "Ashe"
         ],
         [
-          "STUPID SONG",
-          "OLIVIA RODRIGO"
+          "Stupid Song",
+          "Olivia Rodrigo"
         ]
       ]
+    },
+    "Netherlands": {
+      "name": "Streaming Top 40",
+      "source": "Stichting Nederlandse Top 40",
+      "date": "Week 38, 16 September 2026",
+      "url": "https://www.top40.nl/streaming-top40",
+      "tracks": [
+        [
+          "Dai Dai",
+          "Shakira x Burna Boy"
+        ],
+        [
+          "Alleen Jij",
+          "Milolaathetlukken"
+        ],
+        [
+          "Zwoele Zomernachten",
+          "Rutger Van Barneveld"
+        ],
+        [
+          "So Incredible",
+          "Ilse DeLange"
+        ]
+      ],
+      "note": "National streaming singles chart; separate from the Dutch Top 40."
+    },
+    "Japan": {
+      "name": "Oricon Weekly Streaming Ranking",
+      "source": "Oricon",
+      "date": "14–20 September 2026 (issue 28 September)",
+      "url": "https://www.oricon.co.jp/rank/st/w/2026-09-28/",
+      "tracks": [
+        [
+          "Yes! 東京 (feat.超特急 / M!LK / SUPER★DRAGON / Sakurashimeji / ONE N' ONLY / 原因は自分にある。 / BUDDiiS / ICEx / Lienel)",
+          "EBiDAN (恵比寿学園男子部)"
+        ],
+        [
+          "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+          "YAO"
+        ],
+        [
+          "時空超えてユニバース",
+          "M!LK"
+        ],
+        [
+          "Brand New",
+          "Mrs. GREEN APPLE"
+        ]
+      ],
+      "note": "Weekly streaming chart; source counts audio and video streams."
+    },
+    "Nigeria": {
+      "name": "Official Nigeria Top 100",
+      "source": "TurnTable Charts",
+      "date": "11–17 September 2026",
+      "url": "https://www.turntablecharts.com/charts/1",
+      "tracks": [
+        [
+          "it's over",
+          "FOLA, Bella Shmurda & Zlatan"
+        ],
+        [
+          "Oh No",
+          "Rema"
+        ],
+        [
+          "B4 B4",
+          "Davido, Mayorkun & FOLA"
+        ],
+        [
+          "BIG PERFORMER",
+          "Blaqbonez"
+        ]
+      ],
+      "note": "National combined singles chart; use publisher link for the latest week."
+    },
+    "Brazil": {
+      "name": "Billboard Brasil Hot 100",
+      "source": "Billboard Brasil / Luminate",
+      "date": "21 September 2026",
+      "url": "https://billboard.com.br/billboard-brasil-hot-100/",
+      "tracks": [
+        [
+          "Cadeira Cativa",
+          "Zé Neto e Cristiano"
+        ],
+        [
+          "Postinho De Gasolina",
+          "João Gustavo & Murilo"
+        ],
+        [
+          "Cuida do Pet",
+          "MC Iguinho CT, Aaron Modesto, MC Negão Original, Oldilla, Du'L, MC Willian, DJ Aladin GDB"
+        ],
+        [
+          "Peão Todo Tatuado",
+          "Jeninho & Mariana Fagundes"
+        ]
+      ],
+      "note": "Billboard Brasil streaming ranking; dated publisher snapshot."
+    },
+    "Canada": {
+      "name": "Billboard Canadian Hot 100",
+      "source": "Billboard Canada / Luminate",
+      "date": "Week of 19 September 2026",
+      "url": "https://ca.billboard.com/charts/billboard-canadian-hot-100",
+      "tracks": [
+        [
+          "Choosin' Texas",
+          "Ella Langley"
+        ],
+        [
+          "Boston",
+          "Stella Lefty"
+        ],
+        [
+          "Kingdom Of Fear",
+          "Cameron Whitcomb"
+        ],
+        [
+          "I Knew It, I Knew You",
+          "Taylor Swift"
+        ]
+      ]
+    },
+    "Mexico": {
+      "name": "Top 20 General Radio",
+      "source": "monitorLATINO",
+      "date": "Week reported 21 September 2026",
+      "url": "https://www.monitorlatino.com/noticias/bby-wow-numero-1-monitorlatino-septiembre-2026/",
+      "tracks": [
+        [
+          "Yo Era Poesía",
+          "Alejandro Sanz feat. Edén Muñoz"
+        ]
+      ],
+      "note": "Only the published #1 is verified here. Positions 2–4 have not been added."
+    },
+    "Argentina": {
+      "name": "Top 20 General Radio",
+      "source": "monitorLATINO",
+      "date": "Week reported 21 September 2026",
+      "url": "https://www.monitorlatino.com/noticias/bby-wow-numero-1-monitorlatino-septiembre-2026/",
+      "tracks": [
+        [
+          "Ahi",
+          "KAROL G feat. Drake"
+        ]
+      ],
+      "note": "Only the published #1 is verified here. Positions 2–4 have not been added."
+    },
+    "Chile": {
+      "name": "Top 20 General Radio",
+      "source": "monitorLATINO",
+      "date": "Week reported 21 September 2026",
+      "url": "https://www.monitorlatino.com/noticias/bby-wow-numero-1-monitorlatino-septiembre-2026/",
+      "tracks": [
+        [
+          "Bby Wow",
+          "KAROL G feat. Judeline & rusowsky"
+        ]
+      ],
+      "note": "Only the published #1 is verified here. Positions 2–4 have not been added."
+    },
+    "Colombia": {
+      "name": "Top 20 General Radio",
+      "source": "monitorLATINO",
+      "date": "Week reported 21 September 2026",
+      "url": "https://www.monitorlatino.com/noticias/bby-wow-numero-1-monitorlatino-septiembre-2026/",
+      "tracks": [
+        [
+          "Bby Wow",
+          "KAROL G feat. Judeline & rusowsky"
+        ]
+      ],
+      "note": "Only the published #1 is verified here. Positions 2–4 have not been added."
     }
   },
   "genres": {
@@ -625,6 +801,33 @@
             "Ludovico Einaudi"
           ]
         ]
+      }
+    },
+    "Japan": {
+      "rock": {
+        "name": "Oricon Weekly Rock Singles Ranking",
+        "source": "Oricon",
+        "date": "14–20 September 2026 (issue 28 September)",
+        "url": "https://www.oricon.co.jp/rank/rs/w/2026-09-28/",
+        "tracks": [
+          [
+            "運命さがし EP",
+            "マカロニえんぴつ"
+          ],
+          [
+            "怪獣/いらない",
+            "サカナクション"
+          ],
+          [
+            "極夜行",
+            "NIGHTMARE"
+          ],
+          [
+            "終宵 EP",
+            "マカロニえんぴつ"
+          ]
+        ],
+        "note": "The publisher includes EPs on its rock singles chart."
       }
     }
   }
