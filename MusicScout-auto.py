@@ -8,6 +8,7 @@ Offline or failed publisher requests leave the last saved chart data intact.
 """
 
 import html
+import argparse
 import json
 import re
 import threading
@@ -122,12 +123,26 @@ def refresh_once():
     if not changes:
         return
     data = json.loads(DATA.read_text(encoding="utf-8"))
+    updated = False
     for country, result in changes.items():
         previous = data["national"].get(country)
         if not previous:
             continue
+        old_week = DATE_RE.search(previous.get("date", ""))
+        if old_week:
+            old_start = datetime.strptime(old_week.group(1), "%d %B %Y").date()
+            new_start = datetime.strptime(result["date"].split(" – ")[0], "%d %B %Y").date()
+            if new_start < old_start:
+                print(f"{country}: older publisher chart ignored", flush=True)
+                continue
+        if all(previous.get(key) == value for key, value in result.items()):
+            print(f"{country}: already current", flush=True)
+            continue
         data["national"][country] = {**previous, **result}
+        updated = True
         print(f"{country}: {result['date']} (positions 1–4)", flush=True)
+    if not updated:
+        return
     temporary = DATA.with_suffix(".json.tmp")
     temporary.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     temporary.replace(DATA)
@@ -166,4 +181,12 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Open MusicScout or refresh chart JSON once")
+    parser.add_argument("--refresh-only", action="store_true", help="Update saved JSON without opening a browser or server")
+    arguments = parser.parse_args()
+    if arguments.refresh_only:
+        if not DATA.is_file():
+            raise SystemExit("MusicScout-chart-data.json must be beside this script.")
+        refresh_once()
+    else:
+        main()
