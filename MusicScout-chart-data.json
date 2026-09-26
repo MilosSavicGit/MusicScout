@@ -44,7 +44,7 @@
     "United Kingdom": {
       "name": "Official Singles Chart Top 100",
       "source": "Official Charts Company",
-      "date": "18 September 2026 – 24 September 2026",
+      "date": "25 September 2026 – 01 October 2026",
       "url": "https://www.officialcharts.com/charts/singles-chart/",
       "tracks": [
         [
@@ -56,12 +56,12 @@
           "ELLA LANGLEY"
         ],
         [
-          "MOVIN' TO THE SUN",
-          "HUGEL/IMAEL ANGEL/ULTRA NATE"
-        ],
-        [
           "BOSTON",
           "STELLA LEFTY"
+        ],
+        [
+          "NICOLE KIDMAN",
+          "ADELA"
         ]
       ]
     },
@@ -336,9 +336,13 @@
     "Ireland": {
       "name": "Official Irish Singles Chart",
       "source": "Official Charts Company / IRMA",
-      "date": "18 September 2026 – 24 September 2026",
+      "date": "25 September 2026 – 01 October 2026",
       "url": "https://www.officialcharts.com/charts/irish-singles-chart/",
       "tracks": [
+        [
+          "MY BODY ISN'T READY",
+          "SOMBR"
+        ],
         [
           "THE SWELL",
           "AMBLE"
@@ -350,10 +354,6 @@
         [
           "STOP THE WEDDING",
           "ASHE"
-        ],
-        [
-          "STUPID SONG",
-          "OLIVIA RODRIGO"
         ]
       ]
     },
