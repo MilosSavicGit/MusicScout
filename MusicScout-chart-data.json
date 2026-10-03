@@ -44,24 +44,24 @@
     "United Kingdom": {
       "name": "Official Singles Chart Top 100",
       "source": "Official Charts Company",
-      "date": "25 September 2026 – 01 October 2026",
+      "date": "02 October 2026 – 08 October 2026",
       "url": "https://www.officialcharts.com/charts/singles-chart/",
       "tracks": [
+        [
+          "NewPATIENT ZERO",
+          "TAYLOR SWIFT"
+        ],
         [
           "GREAT EXPECTATION",
           "SIENNA SPIRO"
         ],
         [
-          "CHOOSIN' TEXAS",
-          "ELLA LANGLEY"
+          "NewCLEVELAND",
+          "TAYLOR SWIFT"
         ],
         [
-          "BOSTON",
-          "STELLA LEFTY"
-        ],
-        [
-          "NICOLE KIDMAN",
-          "ADELA"
+          "NewBABYLON",
+          "TAYLOR SWIFT"
         ]
       ]
     },
