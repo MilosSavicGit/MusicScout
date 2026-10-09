@@ -336,11 +336,15 @@
     "Ireland": {
       "name": "Official Irish Singles Chart",
       "source": "Official Charts Company / IRMA",
-      "date": "02 October 2026 – 08 October 2026",
+      "date": "09 October 2026 – 15 October 2026",
       "url": "https://www.officialcharts.com/charts/irish-singles-chart/",
       "tracks": [
         [
-          "NewPATIENT ZERO",
+          "STOP THE WEDDING",
+          "ASHE"
+        ],
+        [
+          "PATIENT ZERO",
           "TAYLOR SWIFT"
         ],
         [
@@ -348,12 +352,8 @@
           "OLIVIA RODRIGO"
         ],
         [
-          "STOP THE WEDDING",
-          "ASHE"
-        ],
-        [
-          "MY BODY ISN'T READY",
-          "SOMBR"
+          "GREAT EXPECTATION",
+          "SIENNA SPIRO"
         ]
       ]
     },
