@@ -44,16 +44,12 @@
     "United Kingdom": {
       "name": "Official Singles Chart Top 100",
       "source": "Official Charts Company",
-      "date": "09 October 2026 – 15 October 2026",
+      "date": "16 October 2026 – 22 October 2026",
       "url": "https://www.officialcharts.com/charts/singles-chart/",
       "tracks": [
         [
           "PATIENT ZERO",
           "TAYLOR SWIFT"
-        ],
-        [
-          "GREAT EXPECTATION",
-          "SIENNA SPIRO"
         ],
         [
           "BABYDOLL",
@@ -62,6 +58,10 @@
         [
           "STOP THE WEDDING",
           "ASHE"
+        ],
+        [
+          "GREAT EXPECTATION",
+          "SIENNA SPIRO"
         ]
       ]
     },
@@ -336,7 +336,7 @@
     "Ireland": {
       "name": "Official Irish Singles Chart",
       "source": "Official Charts Company / IRMA",
-      "date": "09 October 2026 – 15 October 2026",
+      "date": "16 October 2026 – 22 October 2026",
       "url": "https://www.officialcharts.com/charts/irish-singles-chart/",
       "tracks": [
         [
