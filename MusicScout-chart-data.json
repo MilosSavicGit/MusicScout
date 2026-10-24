@@ -44,24 +44,24 @@
     "United Kingdom": {
       "name": "Official Singles Chart Top 100",
       "source": "Official Charts Company",
-      "date": "16 October 2026 – 22 October 2026",
+      "date": "23 October 2026 – 29 October 2026",
       "url": "https://www.officialcharts.com/charts/singles-chart/",
       "tracks": [
-        [
-          "PATIENT ZERO",
-          "TAYLOR SWIFT"
-        ],
         [
           "BABYDOLL",
           "JAMIE MILLER"
         ],
         [
-          "STOP THE WEDDING",
-          "ASHE"
+          "NewHOUSEWIFE",
+          "TATE MCRAE"
         ],
         [
-          "GREAT EXPECTATION",
-          "SIENNA SPIRO"
+          "EXPECTATIONS",
+          "OLIVIA RODRIGO/CHAPPELL ROAN"
+        ],
+        [
+          "STOP THE WEDDING",
+          "ASHE"
         ]
       ]
     },
@@ -336,24 +336,24 @@
     "Ireland": {
       "name": "Official Irish Singles Chart",
       "source": "Official Charts Company / IRMA",
-      "date": "16 October 2026 – 22 October 2026",
+      "date": "23 October 2026 – 29 October 2026",
       "url": "https://www.officialcharts.com/charts/irish-singles-chart/",
       "tracks": [
         [
-          "STOP THE WEDDING",
-          "ASHE"
+          "NewHOUSEWIFE",
+          "TATE MCRAE"
         ],
         [
-          "PATIENT ZERO",
-          "TAYLOR SWIFT"
+          "EXPECTATIONS",
+          "OLIVIA RODRIGO/CHAPPELL ROAN"
         ],
         [
-          "STUPID SONG",
-          "OLIVIA RODRIGO"
+          "NewLIES",
+          "ZACH BRYAN FT LANA DEL REY"
         ],
         [
-          "GREAT EXPECTATION",
-          "SIENNA SPIRO"
+          "MARIANNE",
+          "FONTAINES DC"
         ]
       ]
     },
