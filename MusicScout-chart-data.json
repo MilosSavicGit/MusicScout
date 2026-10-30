@@ -336,24 +336,24 @@
     "Ireland": {
       "name": "Official Irish Singles Chart",
       "source": "Official Charts Company / IRMA",
-      "date": "23 October 2026 – 29 October 2026",
+      "date": "30 October 2026 – 05 November 2026",
       "url": "https://www.officialcharts.com/charts/irish-singles-chart/",
       "tracks": [
         [
-          "NewHOUSEWIFE",
+          "HOUSEWIFE",
           "TATE MCRAE"
+        ],
+        [
+          "STOP THE WEDDING",
+          "ASHE"
         ],
         [
           "EXPECTATIONS",
           "OLIVIA RODRIGO/CHAPPELL ROAN"
         ],
         [
-          "NewLIES",
+          "LIES",
           "ZACH BRYAN FT LANA DEL REY"
-        ],
-        [
-          "MARIANNE",
-          "FONTAINES DC"
         ]
       ]
     },
