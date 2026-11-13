@@ -336,13 +336,9 @@
     "Ireland": {
       "name": "Official Irish Singles Chart",
       "source": "Official Charts Company / IRMA",
-      "date": "06 November 2026 – 12 November 2026",
+      "date": "13 November 2026 – 19 November 2026",
       "url": "https://www.officialcharts.com/charts/irish-singles-chart/",
       "tracks": [
-        [
-          "HOUSEWIFE",
-          "TATE MCRAE"
-        ],
         [
           "BABYDOLL",
           "JAMIE MILLER"
@@ -352,8 +348,12 @@
           "ASHE"
         ],
         [
-          "LIES",
-          "ZACH BRYAN FT LANA DEL REY"
+          "HOUSEWIFE",
+          "TATE MCRAE"
+        ],
+        [
+          "MY BODY ISN'T READY",
+          "SOMBR"
         ]
       ]
     },
